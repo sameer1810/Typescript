@@ -1,0 +1,8 @@
+Types:
+    Static : at compile time
+        built in : number, void, string, null, boolean 
+        user defined: Array, class, tuples, enum, interfacses, functions
+    Generics - components which can be reused with different data type
+    Decorators - attached to a class, method, property, parameter
+               - add annotations, meta-programming syntax
+               - symbol 

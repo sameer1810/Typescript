@@ -1,0 +1,15 @@
+This is a file, used as a sample read for Node.
+
+Modules in Node 
+1. http
+2. fs
+3. formidable
+4. Multer
+5. nodemailer - provide dummy SMTP server
+6. Assert - assertions of functions
+
+User defined modules
+
+
+package.json
+folder - node_modules
